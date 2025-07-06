@@ -60,6 +60,14 @@ Tenav’s internal SAP estimates lacked logic and were often inaccurate, leading
 ## 🔗 Links
 
 - 🌐 [Portfolio Website](https://krutikasoni.github.io)
-- 📂 [Power BI Dashboard / Screenshots](#) *(Add if available)*
-- 📁 [Project Report or Slides](#) *(Optional)*
+
+## 📊 Power BI Dashboard Preview
+
+![Shipping Dashboard 1](ShippingDashboardSnippet.png)
+*Delivery status overview by carrier, route, and delivery window.*
+
+![Shipping Dashboard 2](ShippingDashboardSnippet2.png)
+*Geographical delay heatmap and weather-impact timeline.*
+
+
 
